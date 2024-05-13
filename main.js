@@ -35,5 +35,5 @@ function handleDec(currentTime) {
 window.requestAnimationFrame(handleDec);
 
 btnEl.addEventListener("click", function () {
-  window.location.href = "https://google.com.vn";
+  window.location.href = "https://www.youtube.com/watch?v=u2Ix73ePWDs";
 });
