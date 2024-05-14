@@ -44,7 +44,7 @@ body {
 
 .time button:disabled {
   background: #ccc;
-  cursor: default;
+  cursor: no-drop;
 }
 
 .time button a {
